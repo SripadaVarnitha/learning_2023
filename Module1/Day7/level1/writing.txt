@@ -1,0 +1,6 @@
+reading the file 
+using file operations
+file handling 
+day7/level1
+learning_2023
+ok done
